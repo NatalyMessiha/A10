@@ -1,32 +1,32 @@
 body {
   font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
   margin: 0;
   padding: 0;
-  background-color: #f4f4f4;
-  color: #222;
 }
 
 .container {
   max-width: 700px;
-  margin: 60px auto;
-  background: white;
+  margin: 80px auto;
   padding: 30px;
-  border-radius: 10px;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  background: white;
+  border-radius: 12px;
   text-align: center;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
 }
 
 h1 {
-  margin-bottom: 20px;
+  margin-bottom: 15px;
 }
 
 #message {
-  font-size: 1.1rem;
+  font-size: 18px;
+  margin-top: 10px;
 }
 
 footer {
   text-align: center;
   margin-top: 40px;
   padding: 20px;
-  font-size: 0.95rem;
+  font-size: 14px;
 }
